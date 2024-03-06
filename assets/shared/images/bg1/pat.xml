@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pat.png">
+	
+	
+	<SubTexture name="skate relol0000" x="944" y="171" width="450" height="171" frameX="-41" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0001" x="944" y="0" width="450" height="171" frameX="-41" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0002" x="460" y="513" width="460" height="171" frameX="-31" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0003" x="0" y="513" width="460" height="171" frameX="-31" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0004" x="473" y="0" width="471" height="171" frameX="-20" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0005" x="473" y="171" width="471" height="171" frameX="-20" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0006" x="0" y="684" width="452" height="171" frameX="-39" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0007" x="452" y="684" width="452" height="171" frameX="-39" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0008" x="0" y="342" width="462" height="171" frameX="-29" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0009" x="462" y="342" width="462" height="171" frameX="-29" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0010" x="0" y="0" width="473" height="171" frameX="-18" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0011" x="0" y="171" width="473" height="171" frameX="-18" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0012" x="944" y="342" width="436" height="171" frameX="-55" frameY="1" frameWidth="490" frameHeight="178" />
+	<SubTexture name="skate relol0013" x="944" y="513" width="436" height="171" frameX="-55" frameY="1" frameWidth="490" frameHeight="178" />
+</TextureAtlas>
