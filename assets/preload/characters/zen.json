@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				118,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zen abajo"
+		},
+		{
+			"offsets": [
+				125,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zen up"
+		},
+		{
+			"offsets": [
+				242,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zen right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				165,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "zen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				116
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zen left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zen",
+	"position": [
+		-350,
+		170
+	],
+	"healthicon": "zen",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		36,
+		69
+	],
+	"camera_position": [
+		120,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

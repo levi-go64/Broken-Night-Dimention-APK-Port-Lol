@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				154
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hello kitty down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				177
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hello kitty up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				159
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hello kitty left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				162
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hello kitty right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hello kitty idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kitty",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "melody",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		102,
+		133
+	],
+	"camera_position": [
+		70,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
