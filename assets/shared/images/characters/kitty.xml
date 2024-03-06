@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kitty.png">
+<SubTexture name="hello kitty down0000" x="1712" y="0" width="398" height="488" frameX="-3" frameY="2" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty down0001" x="1712" y="0" width="398" height="488" frameX="-3" frameY="2" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty down0002" x="1651" y="1513" width="409" height="477" frameX="-1" frameY="-9" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty down0003" x="1651" y="1513" width="409" height="477" frameX="-1" frameY="-9" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty down0004" x="1239" y="1513" width="412" height="479" frameX="2" frameY="-7" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty down0005" x="1239" y="1513" width="412" height="479" frameX="2" frameY="-7" frameWidth="412" frameHeight="488" />
+<SubTexture name="hello kitty idle0000" x="421" y="1020" width="416" height="492" frameX="-5" frameY="-19" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0001" x="421" y="1020" width="416" height="492" frameX="-5" frameY="-19" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0002" x="434" y="513" width="404" height="498" frameX="-15" frameY="-12" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0003" x="434" y="513" width="404" height="498" frameX="-15" frameY="-12" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0004" x="0" y="0" width="426" height="513" frameX="0" frameY="2" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0005" x="0" y="0" width="426" height="513" frameX="0" frameY="2" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0006" x="426" y="0" width="428" height="510" frameX="2" frameY="-1" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0007" x="426" y="0" width="428" height="510" frameX="2" frameY="-1" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0008" x="1256" y="1020" width="422" height="490" frameX="-2" frameY="-21" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0009" x="1256" y="1020" width="422" height="490" frameX="-2" frameY="-21" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0010" x="420" y="1513" width="420" height="487" frameX="-3" frameY="-24" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0011" x="420" y="1513" width="420" height="487" frameX="-3" frameY="-24" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0012" x="0" y="1513" width="420" height="488" frameX="-3" frameY="-23" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty idle0013" x="0" y="1513" width="420" height="488" frameX="-3" frameY="-23" frameWidth="429" frameHeight="513" />
+<SubTexture name="hello kitty left0000" x="840" y="1513" width="399" height="483" frameX="-19" frameY="-8" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty left0001" x="840" y="1513" width="399" height="483" frameX="-19" frameY="-8" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty left0002" x="837" y="1020" width="419" height="491" frameX="0" frameY="0" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty left0003" x="837" y="1020" width="419" height="491" frameX="0" frameY="0" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty left0004" x="0" y="1020" width="421" height="493" frameX="2" frameY="2" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty left0005" x="0" y="1020" width="421" height="493" frameX="2" frameY="2" frameWidth="421" frameHeight="493" />
+<SubTexture name="hello kitty right0000" x="1292" y="496" width="419" height="495" frameX="-7" frameY="1" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty right0001" x="1292" y="496" width="419" height="495" frameX="-7" frameY="1" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty right0002" x="838" y="513" width="419" height="496" frameX="-2" frameY="2" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty right0003" x="838" y="513" width="419" height="496" frameX="-2" frameY="2" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty right0004" x="1292" y="0" width="420" height="496" frameX="2" frameY="2" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty right0005" x="1292" y="0" width="420" height="496" frameX="2" frameY="2" frameWidth="428" frameHeight="496" />
+<SubTexture name="hello kitty up0000" x="2110" y="0" width="466" height="459" frameX="2" frameY="-48" frameWidth="466" frameHeight="509" />
+<SubTexture name="hello kitty up0001" x="2110" y="0" width="466" height="459" frameX="2" frameY="-48" frameWidth="466" frameHeight="509" />
+<SubTexture name="hello kitty up0002" x="854" y="0" width="438" height="509" frameX="-25" frameY="2" frameWidth="466" frameHeight="509" />
+<SubTexture name="hello kitty up0003" x="854" y="0" width="438" height="509" frameX="-25" frameY="2" frameWidth="466" frameHeight="509" />
+<SubTexture name="hello kitty up0004" x="0" y="513" width="434" height="507" frameX="-30" frameY="0" frameWidth="466" frameHeight="509" />
+<SubTexture name="hello kitty up0005" x="0" y="513" width="434" height="507" frameX="-30" frameY="0" frameWidth="466" frameHeight="509" />
+</TextureAtlas>

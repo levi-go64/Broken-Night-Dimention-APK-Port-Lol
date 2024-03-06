@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="melody_assets.png">
+<SubTexture name="MELODY DOWN 0000" x="938" y="2117" width="481" height="594" frameX="0" frameY="-33" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY DOWN 0001" x="938" y="2117" width="481" height="594" frameX="0" frameY="-33" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY DOWN 0002" x="0" y="2117" width="483" height="630" frameX="2" frameY="1" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY DOWN 0003" x="0" y="2117" width="483" height="630" frameX="2" frameY="1" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY DOWN 0004" x="483" y="2117" width="455" height="629" frameX="2" frameY="0" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY DOWN 0005" x="483" y="2117" width="455" height="629" frameX="2" frameY="0" frameWidth="483" frameHeight="631" />
+<SubTexture name="MELODY LEFT 0000" x="1440" y="1426" width="474" height="685" frameX="2" frameY="2" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY LEFT 0001" x="1440" y="1426" width="474" height="685" frameX="2" frameY="2" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY LEFT 0002" x="2364" y="1353" width="410" height="672" frameX="-24" frameY="-11" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY LEFT 0003" x="2364" y="1353" width="410" height="672" frameX="-24" frameY="-11" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY LEFT 0004" x="2364" y="678" width="420" height="675" frameX="-6" frameY="-8" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY LEFT 0005" x="2364" y="678" width="420" height="675" frameX="-6" frameY="-8" frameWidth="475" frameHeight="686" />
+<SubTexture name="MELODY RIGHT 0000" x="416" y="1426" width="508" height="688" frameX="-33" frameY="2" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY RIGHT 0001" x="416" y="1426" width="508" height="688" frameX="-33" frameY="2" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY RIGHT 0002" x="924" y="1426" width="516" height="688" frameX="-4" frameY="2" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY RIGHT 0003" x="924" y="1426" width="516" height="688" frameX="-4" frameY="2" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY RIGHT 0004" x="2364" y="0" width="516" height="678" frameX="2" frameY="-7" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY RIGHT 0005" x="2364" y="0" width="516" height="678" frameX="2" frameY="-7" frameWidth="543" frameHeight="688" />
+<SubTexture name="MELODY UP 0000" x="0" y="0" width="374" height="724" frameX="-10" frameY="2" frameWidth="390" frameHeight="724" />
+<SubTexture name="MELODY UP 0001" x="0" y="0" width="374" height="724" frameX="-10" frameY="2" frameWidth="390" frameHeight="724" />
+<SubTexture name="MELODY UP 0002" x="374" y="0" width="363" height="723" frameX="-13" frameY="2" frameWidth="390" frameHeight="724" />
+<SubTexture name="MELODY UP 0003" x="374" y="0" width="363" height="723" frameX="-13" frameY="2" frameWidth="390" frameHeight="724" />
+<SubTexture name="MELODY UP 0004" x="737" y="0" width="389" height="720" frameX="2" frameY="-1" frameWidth="390" frameHeight="724" />
+<SubTexture name="MELODY UP 0005" x="737" y="0" width="389" height="720" frameX="2" frameY="-1" frameWidth="390" frameHeight="724" />
+<SubTexture name="melody idle0000" x="1952" y="0" width="412" height="692" frameX="-2" frameY="-8" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0001" x="1952" y="0" width="412" height="692" frameX="-2" frameY="-8" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0002" x="0" y="1426" width="416" height="691" frameX="2" frameY="-9" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0003" x="0" y="1426" width="416" height="691" frameX="2" frameY="-9" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0004" x="1542" y="0" width="410" height="694" frameX="-10" frameY="-7" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0005" x="1542" y="0" width="410" height="694" frameX="-10" frameY="-7" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0006" x="0" y="724" width="416" height="702" frameX="-3" frameY="1" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0007" x="0" y="724" width="416" height="702" frameX="-3" frameY="1" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0008" x="836" y="724" width="414" height="700" frameX="-8" frameY="-1" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0009" x="836" y="724" width="414" height="700" frameX="-8" frameY="-1" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0010" x="1126" y="0" width="416" height="703" frameX="-4" frameY="2" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0011" x="1126" y="0" width="416" height="703" frameX="-4" frameY="2" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0012" x="416" y="724" width="420" height="702" frameX="-5" frameY="1" frameWidth="427" frameHeight="703" />
+<SubTexture name="melody idle0013" x="416" y="724" width="420" height="702" frameX="-5" frameY="1" frameWidth="427" frameHeight="703" />
+</TextureAtlas>
