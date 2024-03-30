@@ -24,18 +24,18 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Hey, watch out!\n
-			This Mod contains some flashing lights!\n
-			Press ENTER to disable them now or go to Options Menu.\n
-			Press ESCAPE to ignore this message.\n
-			You've been warned!",
+			"Sebelum Masuk ke Game, Baca Ini!\n
+			Ini Port Mod Nya LG64, Tapi Aslinya Ini Portnya Idklool\n
+			Tekan B Biar Ga Mati Flashing nya.\n
+			Tekan A Buat Matiin Flashing Nya.\n
+			Jangan Lupa Kasih Credits Kalau Mau recording.",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
 		
 		#if mobile
-		addVirtualPad(NONE, A_B);
+		addVirtualPad(UP_LEFT_RIGHT, A_B_C);
 		#end
 	}
 
